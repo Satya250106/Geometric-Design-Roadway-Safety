@@ -1,0 +1,70 @@
+[
+  {
+    "path": ".gitignore",
+    "size_bytes": 194
+  },
+  {
+    "path": "LICENSE",
+    "size_bytes": 815
+  },
+  {
+    "path": "README.md",
+    "size_bytes": 6278
+  },
+  {
+    "path": "calculations/axle-load-analysis/axle-load-damaging-effect.xlsx",
+    "size_bytes": 10520
+  },
+  {
+    "path": "calculations/rigid-pavement-design/design-axle-and-fatigue-damage.xlsx",
+    "size_bytes": 64083
+  },
+  {
+    "path": "calculations/rigid-pavement-design/design-traffic-calculations.xlsx",
+    "size_bytes": 8359
+  },
+  {
+    "path": "calculations/traffic-signal-design/traffic-signal-timing-four-legged-intersection.xlsx",
+    "size_bytes": 8643
+  },
+  {
+    "path": "data/README.md",
+    "size_bytes": 245
+  },
+  {
+    "path": "data/processed/design-traffic-inputs-and-cached-outputs.csv",
+    "size_bytes": 1259
+  },
+  {
+    "path": "data/processed/traffic-signal-approach-data.csv",
+    "size_bytes": 221
+  },
+  {
+    "path": "references/README.md",
+    "size_bytes": 272
+  },
+  {
+    "path": "report/technical-qa-register.csv",
+    "size_bytes": 2033
+  },
+  {
+    "path": "report/technical-report.md",
+    "size_bytes": 7757
+  },
+  {
+    "path": "report/technical-report.pdf",
+    "size_bytes": 139165
+  },
+  {
+    "path": "results/README.md",
+    "size_bytes": 227
+  },
+  {
+    "path": "visualizations/illustrative-axle-damaging-effect.png",
+    "size_bytes": 54648
+  },
+  {
+    "path": "visualizations/traffic-volume-by-approach.png",
+    "size_bytes": 64069
+  }
+]

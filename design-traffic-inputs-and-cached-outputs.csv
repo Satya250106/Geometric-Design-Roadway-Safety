@@ -1,0 +1,15 @@
+parameter,value,unit,status_note
+Design life,30.0,years,Workbook input
+Traffic growth rate,0.075,fraction/year,Workbook input; confirm interpretation as 7.5%
+One-way commercial vehicle traffic,3000.0,CVPD,Workbook input
+Two-way commercial vehicle traffic,6000,CVPD,Cached workbook value
+Average axles per commercial vehicle,2.45,axles/CV,Workbook input
+Lateral placement adjustment,0.25,fraction,Workbook input; confirm definition
+Night traffic proportion,0.55,fraction,Workbook input
+Day traffic proportion,0.45,fraction,Workbook input
+Design traffic,226444691.5,commercial vehicles,Cached workbook output; requires independent validation
+Total two-way axle repetitions,554789494.2,axle repetitions,Cached workbook output; requires independent validation
+Predominant-direction axle repetitions,305134221.8,axle repetitions,Cached workbook output; requires independent validation
+Adjusted axle repetitions,76283555.46,axle repetitions,Cached workbook output; requires independent validation
+Night-time 12-hour design axle repetitions,41955955.5,axle repetitions,Cached workbook output; requires independent validation
+Day-time 12-hour design axle repetitions,34327599.95,axle repetitions,Cached workbook output; requires independent validation

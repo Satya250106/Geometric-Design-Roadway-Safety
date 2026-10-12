@@ -1,0 +1,5 @@
+approach,width_m,saturation_flow_veh_per_h,traffic_volume_veh_per_h,flow_ratio_cached
+Northbound,4.2,2205,600.0,0.273
+Southbound,4.1,2153,590.0,0.275
+Eastbound,3.9,2047.5,730.0,0.357
+Westbound,4.5,2362.5,790.0,0.335
